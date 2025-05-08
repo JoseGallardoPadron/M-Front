@@ -1,4 +1,4 @@
-name: Frontend
+name: Frontendd
 on:
   push:
     branches:
